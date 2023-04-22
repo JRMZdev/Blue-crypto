@@ -1,0 +1,15 @@
+.container--title-type3 {
+    display: flex;
+    width: 1000px;
+    margin: 0 auto;
+  }
+  .container--card-info {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1000px;
+    margin: 0 auto;
+  }
+  .container--slider {
+    justify-content: center;
+    overflow-x:hidden;
+  }
