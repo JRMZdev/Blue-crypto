@@ -1,13 +1,13 @@
 :root {
     --background-blue: #047E93;
     --soft-orange: #ffe9d5;
-    --mid-grey: #606060;
+    --mid-gray: #606060;
     --soft-blue: #e7f5ff;
     --warm-black: #282623;
     --black: #201e1c;
     --off-white: #faf8f7;
     --just-white: #fff;
-    --grey: #bababa;
+    --gray: #bababa;
   }
 
   * {
@@ -186,7 +186,7 @@
     font-size: 1.8rem;
     font-weight: bold;
     line-height: 2.3rem;
-    color: var(--mid-grey);
+    color: var(--mid-gray);
   }
   .container--table1,
   .container--table2 {
@@ -208,7 +208,7 @@
     font-size: 1.6rem;
     font-weight: 500;
     line-height: 1.9rem;
-    color: var(--grey);
+    color: var(--gray);
     background-color: var(--just-white);
   }
   .container--table1 .table__top-left,
